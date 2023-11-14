@@ -1,3 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/SvetlanaPeskova/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/SvetlanaPeskova/frontend-project-44/actions)
-a5bd2a9248dcf722baab6ba5bae6ecb46a9eacb9c61c7c852af64657a383b3f4
+
+### CodeClimat:
+[![Maintainability](https://api.codeclimate.com/v1/badges/ab2c5e752515b214c304/maintainability)](https://codeclimate.com/github/SvetlanaPeskova/frontend-project-44/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ab2c5e752515b214c304/test_coverage)](https://codeclimate.com/github/SvetlanaPeskova/frontend-project-44/test_coverage)
